@@ -1,6 +1,6 @@
 # Hey there, I'm Kaylah
 
-I'm a Cloud Architect with a specialization in DevOps and Machine Learning. I bridge the semantic gap between business objectivs and technological solutions.
+I'm a Cloud Architect with a specialization in DevOps and Machine Learning. I bridge the semantic gap between business objectivs and technological solutions. --> **Disclaimer: This repo does not contain any code from my current or past organizations**
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=kylhgr&theme=onedark&margin-w=15&margin-h=15&column=7)
 
