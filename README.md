@@ -19,8 +19,8 @@ I'm a Cloud Architect with a specialization in DevOps and Machine Learning. I br
 - 👯 I’m looking to collaborate on projects with JavaScript, Rust & Solidity
 - 🤔 I’m looking for help with deploying generative art as an NFT
 - 💬 Ask me about Google Cloud and WEB3 education resources
-- 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/kaylahgore) or [My Twitter Account](www.twitter.com/kaygo_eth)
-- ⚡ Fun fact: I am a live music photographer!
+- 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/kaylahgore)
+- ⚡ Fun fact: I am a live music photographer, I've studied abroad in the Republic of China. 
 
 ### @ the office 
 
