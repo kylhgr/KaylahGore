@@ -1,6 +1,6 @@
 # Hey there, I'm Kaylah
 
-I'm a DevOps Cloud Architect at Google Cloud. I bridge the semantic gap between business objectivs and technological solutions. --> **Disclaimer: This repo does not contain any code from my current or past organizations**
+**Disclaimer: This repo does not contain any code from my current or past organizations**
 
 ![GitHub trophy](https://github-profile-trophy.vercel.app/?username=kylhgr&theme=onedark&margin-w=15&margin-h=15&column=7)
 
@@ -17,14 +17,13 @@ I'm a DevOps Cloud Architect at Google Cloud. I bridge the semantic gap between 
 - 🔭 I’m learning Solidity for Smart Contract Development while brushing up on JavaScript
 - 🏫 I'm studying Blockchain and Etheruem Development at ConsenSys Academy 
 - 👯 I’m looking to collaborate on projects with JavaScript, Rust & Solidity
-- 🤔 I’m looking for help with deploying generative art as an NFT
-- 💬 Ask me about Google Cloud and WEB3 education resources
-- 📫 How to reach me: [my LinkedIn profile](https://linkedin.com/in/kaylahgore)
-- ⚡ Fun fact: I am a live music photographer, I've studied abroad in the Republic of China. 
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Cloud 
+- 📫 How to reach me: [
 
 ### @ the office 
 
-- 👾 Cloud Architect: DevOps, Kubernetes, Machine Learning, Severless
+- 👾 Cloud Architect: DevOps, Kubernetes, Machine Learning, Serverless
 
 ## 📚 Study Roadmap 
 
